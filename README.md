@@ -2,4 +2,4 @@
 Autor:
 Nome: Fernando Lucas Vieira da Costa 
 id: a110808
-![Foto Perfil UNI](https://github.com/user-attachments/assets/c19b3d65-afa7-4a7c-a4ad-e634c3872bfe)
+<img width="242" height="317" alt="Foto Perfil UNI github" src="https://github.com/user-attachments/assets/62395426-c27b-4203-9b3e-fc9bdb075ab4" />
