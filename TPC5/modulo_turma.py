@@ -3,6 +3,7 @@ programa = True
 
 
 def criarTurmaIn(nalunos,turma):
+    turma = []
     while nalunos > 0:
         teste = True
         TPC = True
@@ -99,16 +100,17 @@ def abrirTurma(turma,nficheiro):
 
 def sairTurmaIn():
     cont = True
+    prog = True
     while cont == True :
         resp = input("De certeza que prentende sair?:")
         if resp.lower().strip() == "sim":
             cont = False
-            programa = False
+            prog = False
         elif resp.lower().strip() not in ["sim","nao","não"]:
             print("Resposta inválida.")
         elif resp.lower().strip() in ["nao","não"]:
             cont = False
-    return cont
+    return prog
 
 
 
