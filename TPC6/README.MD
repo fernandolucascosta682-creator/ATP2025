@@ -1,1 +1,3 @@
-
+Para a realização deste programa, os dados são agrupados da seguinte forma: a tabela de meteorologia está organizada numa lista de registos diários, e cada registo diário é um tuplo constituído por um tuplo da data, com o ano, mês e dia, respetivamente; a temperatura mínima, a temperatura máxima, e precipitação.
+Este programa permite carregar um ficheiro e agrupar os dados da forma descrita. Para além disso, permite representar os dados num gráfico, em que a escala está ajustada aos valores mínimos e máximos de temperatura registados. 
+O programa tem uma estrutura cíclica, em que o input de escolha da função repete-se até que o usuário queira termina-lo, e para além disso, cada função pode ser desempenhada pelo input de um valor diferente.
